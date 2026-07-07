@@ -2,12 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:1D4ED8,100:7C3AED&height=240&section=header&text=Ezzaddeen%20Alhamzi&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Digital%20Solutions%20Builder&descAlignY=58&descSize=17" />
 
-<br/>
-
-<img src="https://avatars.githubusercontent.com/u/172939526?v=4" width="150" height="150" alt="Ezzaddeen Alhamzi" style="border-radius:50%;" />
-
-<br/>
-
 <a href="https://github.com/EzzaddeenAlhamzi">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+modern+web+applications.;Designing+clean+and+user-centered+interfaces.;Turning+ideas+into+practical+digital+solutions." />
 </a>
@@ -36,17 +30,17 @@ I enjoy transforming ideas into structured systems through clear analysis, clean
 
 <br/>
 
-* Building responsive web applications and dashboards
-* Designing clean UI/UX experiences using Figma
-* Developing systems using Laravel, Next.js, React, TypeScript, and Python
-* Working on educational technology, business systems, and digital transformation
-* Interested in SaaS products, software architecture, and scalable applications
+- Building responsive web applications and dashboards  
+- Designing clean UI/UX experiences using Figma  
+- Developing systems using Laravel, Next.js, React, TypeScript, and Python  
+- Working on educational technology, business systems, and digital transformation  
+- Interested in SaaS products, software architecture, and scalable applications  
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EzzaddeenAlhamzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" />
+<img src="https://avatars.githubusercontent.com/u/172939526?v=4" width="230" alt="Ezzaddeen Alhamzi" />
 
 </td>
 </tr>
@@ -68,14 +62,14 @@ I enjoy transforming ideas into structured systems through clear analysis, clean
 
 <div align="center">
 
-| Area                | Focus                                                               |
-| ------------------- | ------------------------------------------------------------------- |
-| Web Applications    | Modern responsive websites and business platforms                   |
-| Dashboards & CMS    | Admin panels, content management, permissions, reporting            |
-| UI/UX Design        | User-friendly interfaces, wireframes, prototypes, design systems    |
+| Area | Focus |
+|---|---|
+| Web Applications | Modern responsive websites and business platforms |
+| Dashboards & CMS | Admin panels, content management, permissions, reporting |
+| UI/UX Design | User-friendly interfaces, wireframes, prototypes, design systems |
 | Educational Systems | Academic, training, learning, attendance, and performance platforms |
-| AI Applications     | Image analysis, object detection, and intelligent solutions         |
-| Mobile Apps         | Flutter applications for practical daily services                   |
+| AI Applications | Image analysis, object detection, and intelligent solutions |
+| Mobile Apps | Flutter applications for practical daily services |
 
 </div>
 
@@ -108,25 +102,21 @@ I enjoy transforming ideas into structured systems through clear analysis, clean
 ## Selected Work
 
 ### Smart Drive Care
-
 A Flutter mobile application focused on vehicle care, maintenance tracking, and smart service management.
 
 **Stack:** Flutter • Dart • Mobile Application Development
 
 ### Academic Performance Management System
-
 A platform for managing academic performance, student records, results, reports, and educational data.
 
 **Focus:** Academic Systems • Reporting • Student Management
 
 ### MTA
-
 A graduation project developed as a practical mobile application solution.
 
 **Stack:** Flutter • Dart
 
 ### ASL Flask Server
-
 A Python-based backend server project built using Flask.
 
 **Stack:** Python • Flask • APIs
@@ -146,4 +136,3 @@ I have also worked on private systems and platforms in areas such as:
 • University Ride-Sharing Applications
 • Problem and Request Management Systems
 • Corporate and Organization Websites
-```
