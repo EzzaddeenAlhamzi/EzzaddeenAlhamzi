@@ -40,7 +40,7 @@ I enjoy transforming ideas into structured systems through clear analysis, clean
 
 <td width="40%" align="center">
 
-<img src="https://avatars.githubusercontent.com/u/172939526?v=4" width="230" alt="Ezzaddeen Alhamzi" />
+<img src="https://github-readme-stats.vercel.app/api?username=EzzaddeenAlhamzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1" />
 
 </td>
 </tr>
